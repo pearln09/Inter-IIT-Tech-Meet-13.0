@@ -1,4 +1,6 @@
 # Inter-IIT-Tech-Meet-13.0 ISRO PS
+**30_h4_isro_endterm.zip** contains the following files:
+
 - **Code folder** : Contains all the final catalogs and the codes to produce them. All codes have instructions to run in respective readme files inside `code`
 - Final maps are provided in both csv (stored in `ratios` folder) and shp files (stored in `shape_files`).
 - The fitted spectrum parameters are stored in `xrf_line_catalog_power_law_normalized`.
